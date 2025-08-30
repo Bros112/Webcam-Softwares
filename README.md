@@ -29,6 +29,7 @@ Comparison Table
 Helpful guides
 ---
 [Raspberry Pi NVR Configuration](https://github.com/geerlingguy/pi-nvr) - [Jeff Geerling](https://www.jeffgeerling.com/)
+
 [DIY NVR with Raspberry Pi: Open Source Solutions for Home Security](https://diyusthad.com/2023/12/diy-nvr-with-raspberry-pi-open-source-solutions-for-home-security.html#nx-witness) - [DIY Usthad](https://diyusthad.com/)
 
 Last updated on 30/08/2025
